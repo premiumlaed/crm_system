@@ -1,0 +1,86 @@
+{
+  "customers": [
+    {
+      "name": "John Doe",
+      "email": "john@example.com",
+      "phone": 1234567890,
+      "alternative_phone": 1122334455,
+      "category": "Real Estate",
+      "facebook": "fb.com/john",
+      "instagram": "@john_doe",
+      "twitter": "@johnd",
+      "linkedin": "linkedin.com/john",
+      "preferred_contact": "Email",
+      "company": "ABC Corp",
+      "position": "Manager",
+      "address": "123 Main St",
+      "city": "New York",
+      "country": "USA",
+      "notes": "VIP Customer",
+      "customer_id": "CUS000001",
+      "registration_date": "2024-12-03 13:04:55"
+    },
+    {
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "phone": 987654321,
+      "alternative_phone": 5544332211,
+      "category": "Tourism",
+      "facebook": "fb.com/jane",
+      "instagram": "@jane_smith",
+      "twitter": "@janes",
+      "linkedin": "linkedin.com/jane",
+      "preferred_contact": "Phone",
+      "company": "XYZ Ltd",
+      "position": "Director",
+      "address": "456 Oak Ave",
+      "city": "Los Angeles",
+      "country": "USA",
+      "notes": "Regular Customer",
+      "customer_id": "CUS000002",
+      "registration_date": "2024-12-03 13:04:55"
+    },
+    {
+      "name": "احمد",
+      "email": "GGGU@G.COM",
+      "phone": "+210000",
+      "alternative_phone": "",
+      "category": "Real Estate",
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "linkedin": "",
+      "preferred_contact": "Email",
+      "company": "",
+      "position": "",
+      "address": "",
+      "city": "",
+      "country": "",
+      "notes": "",
+      "customer_id": "CUS000003",
+      "registration_date": "2024-12-03 13:24:29"
+    }
+  ],
+  "products": [
+    {
+      "product_id": "PRD001",
+      "name": "Product 1",
+      "category": "Category A",
+      "price": 99.99,
+      "stock": 100,
+      "description": "Product 1 description",
+      "supplier": "Supplier A",
+      "status": "Active"
+    },
+    {
+      "product_id": "PRD002",
+      "name": "Product 2",
+      "category": "Category B",
+      "price": 149.99,
+      "stock": 50,
+      "description": "Product 2 description",
+      "supplier": "Supplier B",
+      "status": "Active"
+    }
+  ]
+}
